@@ -1,0 +1,7 @@
+name: 'snowflake_versions'
+version: '1.0.0'
+config-version: 2
+
+models:
+  snowflake_versions:
+    +materialized: incremental

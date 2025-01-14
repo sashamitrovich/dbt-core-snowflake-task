@@ -1,7 +1,7 @@
 name: 'snowflake_versions'
 version: '1.0.0'
 config-version: 2
-profile: default
+profile: 'default'
 
 models:
   snowflake_versions:
